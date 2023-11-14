@@ -31,7 +31,7 @@
                     <div class="mb-3">
                         <label class="form-label">Fecha Opinion: </label>
                         <input type="date" class="form-control" name="fecha" autofocus required
-                        value="<?php echo $opinion->fecha; ?>">
+                        value="<?php echo $opinion->fecha_opi; ?>">
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Calificacion del trato que se le dio: </label>
@@ -51,7 +51,7 @@
                     <div class="mb-3">
                         <label class="form-label">Sucursal donde se le atendio: </label>
                         <input type="text" class="form-control" name="txtsucu" autofocus required
-                        value="<?php echo $opinion->sucursal; ?>">
+                        value="<?php echo $opinion->sucursal_compra; ?>">
                     </div>
                     <div class="mb-3">
                         <label class="form-label">Sugerencia:  </label>
