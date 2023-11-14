@@ -1,4 +1,6 @@
 # Act-2-CRUD-v2-BOLENAIS
+Alumna Nairobi Keren Montiel Serrano
+
 # Empresa BoleNais 
 Tabla Opiniones
 
@@ -16,4 +18,7 @@ Tabla Opiniones
 # Editar formulario 
 ![Editar 1](https://github.com/nkmserrano/Act-2-CRUD-v2-BOLENAIS/blob/main/editar1.png)
 ![Editar 2](https://github.com/nkmserrano/Act-2-CRUD-v2-BOLENAIS/blob/main/editar2.png)
+
+# Resultado editar
+![Editar Resultados](https://github.com/nkmserrano/Act-2-CRUD-v2-BOLENAIS/blob/main/cambios.png)
 
